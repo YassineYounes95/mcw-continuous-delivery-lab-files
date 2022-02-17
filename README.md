@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/aiw-devops/092e0b7b-b602-4ea4-acfc-3213022c4cb0/5904dd0e-ede0-43c9-91e2-d9af5872d3dd/_apis/work/boardbadge/dddb83a4-ea88-4daf-b823-555f51d4911b)](https://dev.azure.com/aiw-devops/092e0b7b-b602-4ea4-acfc-3213022c4cb0/_boards/board/t/5904dd0e-ede0-43c9-91e2-d9af5872d3dd/Microsoft.RequirementCategory)
 # Continuous delivery in Azure DevOps
 
 Fabrikam Medical Conferences provides conference web site services tailored to the medical community. They started out 10 years ago building a few conference sites for a small conference organizer. Since then, word of mouth has spread, and Fabrikam MedicalConferences is now a well-known industry brand. They currently handle over 100 conferences per year and growing.
